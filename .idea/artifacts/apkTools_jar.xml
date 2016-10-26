@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="apkTools:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/apkTools_jar</output-path>
+    <root id="root">
+      <element id="archive" name="apkTools.jar">
+        <element id="module-output" name="apkTools" />
+      </element>
+      <element id="library" level="project" name="encrypt" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/dom4j-1.6.1.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/libs/apktool.jar" />
+    </root>
+  </artifact>
+</component>

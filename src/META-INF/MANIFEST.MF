@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: encrypt.jar dom4j-1.6.1.jar apktool.jar
+Main-Class: javafx.apktools.Main
+
